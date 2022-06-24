@@ -39,7 +39,7 @@
     "html2canvas": "^1.0.0-rc.5",
     "jquery-ui-rotatable": "^1.1.0",
     "js-yaml": "3.13.1",
-    "jsdom": "^14.0.0",
+    "jsdom": "^16.5.0",
     "pdfjs-dist": "^2.3.200",
     "socket.io": "2.*",
     "uuid": "^8.1.0",
