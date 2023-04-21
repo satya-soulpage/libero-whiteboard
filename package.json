@@ -43,7 +43,7 @@
     "pdfjs-dist": "^2.3.200",
     "socket.io": "2.*",
     "uuid": "^8.1.0",
-    "webdav": "^2.8.0"
+    "webdav": "^5.0.0-r3"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
